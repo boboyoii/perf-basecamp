@@ -10145,8 +10145,8 @@ function useViewTransitionState(to, opts) {
 // EXTERNAL MODULE: ./node_modules/classnames/bind.js
 var bind = __webpack_require__(967);
 var bind_default = /*#__PURE__*/__webpack_require__.n(bind);
-;// ./src/assets/images/optimized/hero.webp
-/* harmony default export */ const hero = (__webpack_require__.p + "static/hero.webp");
+;// ./src/assets/images/hero.png
+/* harmony default export */ const hero = (__webpack_require__.p + "static/hero.png");
 ;// ./src/assets/images/trending.gif
 /* harmony default export */ const trending = (__webpack_require__.p + "static/trending.gif");
 ;// ./src/assets/images/find.gif
